@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+whisper
+gtts
+deep-translator
+Pillow
+torch
+openai
+clip-by-openai
